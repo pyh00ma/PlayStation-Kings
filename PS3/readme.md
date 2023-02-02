@@ -23,4 +23,5 @@ The Super Slim PS3 is the newest, lightest, and smallest version of the PS3. All
 
 
 What do I do if my console is not CFW-compatible?
+
 You're not entirely out of luck. You can still use an exploit called HEN (Homebrew ENabler), which allows you to install applications and games, and un-signed codes. The only difference is that you need to run the HEN exploit every time your console is rebooted (so if you just turned it on, you need to run the exploit). The advantage of CFW is that once it's exploited, you don't need to run the exploit on every boot.
